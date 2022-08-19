@@ -1,0 +1,10 @@
+<template>
+    <fieldset>
+        <legend>朋友</legend>
+        <h1>柯震东</h1>
+        <h1>张默</h1>
+        <h1>李代沫</h1>
+        <h1>房祖名</h1>
+        <h1>签哥</h1>
+    </fieldset>
+</template>
